@@ -1,8 +1,8 @@
-package main.java.com.tutoring.service;
+package com.tutoring.service;
 
-import main.java.com.tutoring.model.Appointment;
-import main.java.com.tutoring.model.Tutor;
-import main.java.com.tutoring.model.User;
+import com.tutoring.model.Appointment;
+import com.tutoring.model.Tutor;
+import com.tutoring.model.User;
 
 /**
  * Handles all automated notifications within the system.

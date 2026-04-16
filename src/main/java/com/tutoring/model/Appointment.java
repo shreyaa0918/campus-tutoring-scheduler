@@ -1,4 +1,4 @@
-package main.java.com.tutoring.model;
+package com.tutoring.model;
 
 /**
  * Central entity representing a tutoring session booking.

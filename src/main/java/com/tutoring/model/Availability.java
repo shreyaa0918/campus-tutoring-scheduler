@@ -1,4 +1,4 @@
-package main.java.com.tutoring.model;
+package com.tutoring.model;
 
 /**
  * Models a tutor's availability time slot.

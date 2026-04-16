@@ -1,4 +1,4 @@
-package main.java.com.tutoring.model;
+package com.tutoring.model;
 
 import java.util.ArrayList;
 import java.util.List;

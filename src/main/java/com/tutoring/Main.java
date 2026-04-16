@@ -1,7 +1,7 @@
-package main.java.com.tutoring;
+package com.tutoring;
 
-import main.java.com.tutoring.model.*;
-import main.java.com.tutoring.service.NotificationService;
+import com.tutoring.model.*;
+import com.tutoring.service.NotificationService;
 
 import java.util.ArrayList;
 import java.util.List;
