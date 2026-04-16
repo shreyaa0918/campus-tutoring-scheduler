@@ -102,15 +102,3 @@ java -cp out com.tutoring.Main
 | Packages | lowercase | `com.tutoring.model` |
 
 ---
-
-## Git Repository
-> *(Add your GitHub repository link here before submission to Brightspace)*
-
-```
-https://github.com/YOUR_TEAM/campus-tutoring-scheduler
-```
-
-All team members should commit to the repository. Suggested branch structure:
-- `main` — stable, working code only
-- `dev` — active development
-- Feature branches per use case: `feature/booking`, `feature/admin`, etc.
